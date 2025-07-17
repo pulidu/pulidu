@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pulidu&label=Profile%20views&color=0e75b6&style=flat" alt="pulidu" /> </p>
+<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="git-sumana" width="300px" alt="pulidu" /> </p>
 
 - 🌱 I’m currently learning **IJSE**
 
