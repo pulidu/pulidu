@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulidu&label=Profile%20views&color=0e75b6&style=flat" alt="pulidu" /> </p>
 
-- 🌱 I’m currently learning **IJSE**
+- 🌱 I’m currently learning **IJSE (Institute of Software Engineering)**
 
 - 📫 How to reach me **godagepulindu@gmail.com**
 
