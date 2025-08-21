@@ -1,4 +1,4 @@
-
+![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Pulindu Godage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="git-sumana" width="300px" />
