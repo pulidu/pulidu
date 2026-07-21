@@ -41,9 +41,9 @@
 
 <br>
 
-<h2 align="center">🌐 Connect with Me</h2>
+### 🌐 Connect with Me
 
-<p align="center">
+<p>
 
   <a href="https://facebook.com/your-profile">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -67,7 +67,7 @@
 
 </p>
 
-<p align="center">
+<p>
 
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -98,9 +98,9 @@
 
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+### 💻 Tech Stack
 
-<p align="center">
+<p>
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -178,9 +178,9 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=pulidu&show_icons=true&theme=radical&hide_border=true&count_private=true"
        alt="Pulindu's GitHub Stats"
        height="180">
@@ -192,18 +192,18 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
+###🔥 GitHub Contribution Streak
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulidu&theme=radical&hide_border=true"
        alt="GitHub Streak">
 </p>
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+###🏆 GitHub Trophies
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=pulidu&theme=radical&no-frame=true&no-bg=true&margin-w=4"
        alt="GitHub Trophies">
 </p>
