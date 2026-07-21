@@ -31,7 +31,6 @@
 - 🚀 Interested in building modern and user-friendly applications
 - 💬 Ask me about **Java, JavaScript, PHP, HTML, CSS, MongoDB, Python, SQL & Docker**
 - 📫 How to reach me: **godagepulindu@gmail.com**
-- 🇱🇰 Based in **Sri Lanka**
 
 <br clear="both">
 
