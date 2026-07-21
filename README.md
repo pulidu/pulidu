@@ -192,7 +192,7 @@
 
 <br>
 
-###🔥 GitHub Contribution Streak
+### 🔥 GitHub Contribution Streak
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulidu&theme=radical&hide_border=true"
@@ -201,7 +201,7 @@
 
 <br>
 
-###🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=pulidu&theme=radical&no-frame=true&no-bg=true&margin-w=4"
