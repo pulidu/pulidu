@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=pulidu&label=Profile%20Views&color=0e75b6&style=flat"
        alt="Profile Views">
 </p>
