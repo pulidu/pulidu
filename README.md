@@ -31,7 +31,7 @@
 - 🚀 Interested in building modern and user-friendly applications
 - 💬 Ask me about **Java, JavaScript, PHP, HTML, CSS, MongoDB, Python, SQL & Docker**
 - 📫 How to reach me: **godagepulindu@gmail.com**
-- ⚡ Coffee ☕ powers my code, curiosity fuels my learning, and Git commits tell my story. My favorite keyboard shortcut is   **Ctrl + Z** ... because even the best developers make mistakes! 😄🚀
+- ⚡ Coffee ☕ powers my code, curiosity fuels my learning, and Git commits tell my story. My favorite keyboard shortcut is   **Ctrl + Z**... because even the best developers make mistakes! 😄🚀
 
 <br clear="both">
 
