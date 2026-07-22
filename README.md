@@ -154,16 +154,11 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pulidu&show_icons=true&theme=radical&hide_border=true&count_private=true"
-       alt="Pulindu's GitHub Stats"
-       height="180">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulidu&layout=compact&theme=radical&hide_border=true"
-       alt="Top Languages"
-       height="180">
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pulidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulidu&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 <br>
 
 ### 🔥 GitHub Contribution Streak
