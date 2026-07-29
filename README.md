@@ -45,7 +45,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pulindu-godage-208568379/" target="_blank">
+  <a href="https://www.linkedin.com/in/pulindu-dinal-godage/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
