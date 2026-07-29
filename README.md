@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <a href="https://x.com/your-username" target="_blank">
+  <a href="https://x.com/PulinduGodage" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
