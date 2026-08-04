@@ -53,9 +53,9 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://medium.com/@godagepulindu" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+ </a>
 
   <a href="https://facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
